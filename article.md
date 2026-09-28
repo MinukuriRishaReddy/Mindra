@@ -78,7 +78,9 @@ For engineers building systems that make decisions from a changing stream of eve
 
 
 ## Application Screenshots
+![Screenshot 6](Screenshot%202026-09-29%20002001.png)
 
+![Screenshot 7](Screenshot%202026-09-29%20002038.png)
 ![Screenshot 1](Screenshot%202026-09-29%20001415.png)
 
 ![Screenshot 2](Screenshot%202026-09-29%20001615.png)
@@ -89,8 +91,6 @@ For engineers building systems that make decisions from a changing stream of eve
 
 ![Screenshot 5](Screenshot%202026-09-29%20001807.png)
 
-![Screenshot 6](Screenshot%202026-09-29%20002001.png)
 
-![Screenshot 7](Screenshot%202026-09-29%20002038.png)
 
 ![Screenshot 8](Screenshot%202026-09-29%20002105.png)
