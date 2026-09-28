@@ -75,3 +75,22 @@ For example, suppose a tracked competitor adds several engineering roles, change
 The engineering work in this project is ultimately about resisting an attractive shortcut: storing only the latest conclusion. Hindsight is useful because it lets the system carry relevant history forward, but the application still has to make that history inspectable. When a competitor’s behavior changes, I want the analyst to see not just what the system thinks, but which observations caused it to think so—and where the analogy might stop holding.
 
 For engineers building systems that make decisions from a changing stream of events, that is the standard I would keep: persist the evidence, retrieve context deliberately, and make every important conclusion lead back to something a person can check.
+
+
+## Application Screenshots
+
+![Screenshot 1](Screenshot%202026-09-29%20001415.png)
+
+![Screenshot 2](Screenshot%202026-09-29%20001615.png)
+
+![Screenshot 3](Screenshot%202026-09-29%20001709.png)
+
+![Screenshot 4](Screenshot%202026-09-29%20001737.png)
+
+![Screenshot 5](Screenshot%202026-09-29%20001807.png)
+
+![Screenshot 6](Screenshot%202026-09-29%20002001.png)
+
+![Screenshot 7](Screenshot%202026-09-29%20002038.png)
+
+![Screenshot 8](Screenshot%202026-09-29%20002105.png)
